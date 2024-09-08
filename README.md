@@ -1,16 +1,7 @@
-### Hi there 👋
+### Hello! 👋
 My name is Aidan Zucosky
-<!--
-**Aidan-Zucosky/Aidan-Zucosky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on getting my bachelor's degree from Northeastern University
-- 🌱 I’m currently learning Data Science and Mathamatics
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: email: Zucosky.a@Northeastern.edu
-- 😄 Pronouns: He/They/She
-- ⚡ Fun fact: You only need a parachute if you want to go sky diving twice!
--->
+I am currently a Data Science and Mathematics student at Northeastern University 
+Currently taking classes and alaways looking for way to apply my learning to projects and work opportunties!
+So excited to continue learning and working with other people
+Feel free to reach me at: Zucosky.a@northeastern.edu
+"Do good, be good" - yogi bhajan
